@@ -1,0 +1,35 @@
+This is a simple CMS (Content Management System) written in PHP.
+
+equirements:
+Xampp or any PHP enabled server.
+
+Files:
+----------------------------------------------------------------------------------------------------
+add.html - Manage the database
+. Add - Add text to the database
+. View DB - View the text written to the database
+. Delete DB - Erases the database
+
+add.php - Add the text to the DB
+. Do not invoke directly, use add.html
+
+db.txt - Where the files are stored
+
+del.php - Delete the DB
+. Can be called directly but use add.html
+
+index.php - Show the text in the DB
+. This is the homepage - Text or HTML will show in here
+----------------------------------------------------------------------------------------------------
+
+You can navigate in the online demo.
+> add.html - Add/View/Delete text
+> index.php - View the text
+
+Download: (OLD)
+http://nitroflare.com/view/9A3E2F78152B85F/_PHP__Privateloader_CMS_V1.rar
+
+Download: (Uploaded: 17-11-2023)
+https://oxy.st/d/Txrh
+https://nitroflare.com/view/CEA11E7063E087E/_PHP__Privateloader_CMS_V1.rar
+https://file.al/mg3yj8nnsqlh
